@@ -1,6 +1,6 @@
 # TelegramFetch
 
-A simple library to help fetch account information from Telegram users by username.
+A simple Elixir library to help fetch account information from Telegram users by username.
 
 ### Usage:
 
